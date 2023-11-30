@@ -1,0 +1,24 @@
+body {
+    background-color: palevioletred;
+    }
+    
+    #banner {
+        width:100%;
+    }
+    
+    .principal{
+        background: #e0a3c7;
+        padding: 30px;
+    }
+    
+    h1 {
+        text-align: center;
+    }
+    
+    p {
+        text-align: center;
+    }
+    
+    #missao {
+        font-size: 20px
+    }
